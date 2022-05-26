@@ -43,6 +43,7 @@ h1{
    flex-direction: row;
    margin: 10px;
    font-family: cursive;
+   color: black;
 }
 
 .card:nth-child(even){
